@@ -3,6 +3,7 @@
   "description": "Automatically creates or updates a GitHub issue for every HTTP 500 error in production.",
   "type": "library",
   "license": "MIT",
+  "version": "1.0.1",
   "require": {
     "php": "^7.4|^8.0",
     "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0"
