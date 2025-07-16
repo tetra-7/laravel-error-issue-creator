@@ -9,13 +9,13 @@
   },
   "autoload": {
     "psr-4": {
-      "DhippoVendor\\ErrorIssueCreator\\": "src/"
+      "Tetra7\\ErrorIssueCreator\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "DhippoVendor\\ErrorIssueCreator\\ErrorIssueServiceProvider"
+        "Tetra7\\ErrorIssueCreator\\ErrorIssueServiceProvider"
       ]
     }
   }

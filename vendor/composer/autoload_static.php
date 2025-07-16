@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInita6a14a24ffeb84ea0a5b2936377aeae4
 {
     public static $prefixLengthsPsr4 = array (
-        'D' => 
+        'T' => 
         array (
-            'DhippoVendor\\ErrorIssueCreator\\' => 31,
+            'Tetra7\\ErrorIssueCreator\\' => 25,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'DhippoVendor\\ErrorIssueCreator\\' => 
+        'Tetra7\\ErrorIssueCreator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

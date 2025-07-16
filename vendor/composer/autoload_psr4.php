@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'DhippoVendor\\ErrorIssueCreator\\' => array($baseDir . '/src'),
+    'Tetra7\\ErrorIssueCreator\\' => array($baseDir . '/src'),
 );

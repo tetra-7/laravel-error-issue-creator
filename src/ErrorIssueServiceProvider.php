@@ -1,8 +1,8 @@
 <?php
 
-namespace DhippoVendor\ErrorIssueCreator;
+namespace Tetra7\ErrorIssueCreator;
 
-use DhippoVendor\ErrorIssueCreator\Jobs\CreateGitHubIssueJob;
+use Tetra7\ErrorIssueCreator\Jobs\CreateGitHubIssueJob;
 use Illuminate\Contracts\Debug\ExceptionHandler as HandlerContract;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Log;

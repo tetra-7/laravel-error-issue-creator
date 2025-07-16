@@ -1,6 +1,6 @@
 <?php
 
-namespace DhippoVendor\ErrorIssueCreator\Jobs;
+namespace Tetra7\ErrorIssueCreator\Jobs;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
